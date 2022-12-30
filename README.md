@@ -6,7 +6,6 @@ A typing speed app that measures how many words you type correctly in 1 minute. 
 ## Packages I use...
 
 * @reduxjs/toolkit
-* react-redux
 * Bootstrap
 * React Icons
 
